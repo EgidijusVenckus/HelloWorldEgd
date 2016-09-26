@@ -1,4 +1,2 @@
-heroku-node
+Hello World Egidijus Venckus
 ===========
-
-Code for the tutorial by @sevilayha: Deploying Node Apps to Heroku
