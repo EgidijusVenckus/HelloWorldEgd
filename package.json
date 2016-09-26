@@ -1,6 +1,6 @@
 {
   "name": "node-sample",
-  "description": "Our sample Node to Heroku app",
+  "description": "Sample Code for Hello World",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
